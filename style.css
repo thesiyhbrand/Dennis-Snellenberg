@@ -43,25 +43,25 @@ body::-webkit-scrollbar{
 }
 
 .photu:nth-child(1){
-    background-image: url(/images/thumbnail-chainn.jpg);
+    background-image: url(https://images.unsplash.com/photo-1656231944351-1bdcbef1bc21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1524&q=80);
     background-size: cover;
     background-position: center;
 }
 
 .photu:nth-child(2){
-    background-image: url(/images/thumbnail-atypikal.jpg);
+    background-image: url(https://images.unsplash.com/photo-1656153816323-f3a8186cb239?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80);
     background-size: cover;
     background-position: center;
 }
 
 .photu:nth-child(3){
-    background-image: url(/images/thumbnail-micdrop-810x810-crop-q72.jpg);
+    background-image: url(https://images.unsplash.com/photo-1654859869130-fd0a2aa5539b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1528&q=80);
     background-size: cover;
     background-position: center;
 }
 
 .photu:nth-child(4){
-    background-image: url(/images/thumbnail-tapsody-v5-810x810-crop-q72.jpg);
+    background-image: url(https://images.unsplash.com/photo-1653426375933-d2bbd510ae3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1498&q=80);
     background-size: cover;
     background-position: center;
 }
